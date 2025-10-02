@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kanade</h1>
-<h3 align="center">🚀 MERN Stack Developer | 💻 DSA Enthusiast | 🌱 Lifelong Learner</h3>
+<h3 align="center">🚀 MERN Stack Developer | ☕ Full Stack Java Enthusiast | 💻 DSA Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhikanade17112002&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /> 
@@ -10,7 +10,7 @@
 
 ### 💡 About Me  
 - 🔭 Currently working on **[Synchronous](https://github.com/Abhikanade17112002/Synchronous)**  
-- 🌱 Learning **React.js, Node.js, Express.js, MongoDB, OOPS & DSA**  
+- 🌱 Learning **MERN + Java Full Stack, OOPS & DSA**  
 - 👨‍💻 Check out all my projects 👉 [Linktree](https://linktr.ee/abhishekkanade21)  
 - 💬 Ask me about **DSA, Web Development, DevOps**  
 - 📫 Reach me at **abhishekrangnathkanade21@gmail.com**
@@ -19,18 +19,25 @@
 
 ### 🌐 Connect With Me  
 <p align="left">
-<a href="https://linkedin.com/in/abhishek-rangnath-kanade" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-<a href="https://instagram.com/__abhishek17_" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
-<a href="https://leetcode.com/u/abhishekrangnathkanade21/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" /></a>
-<a href="https://www.codechef.com/users/abhikanade301" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/codechef.svg" alt="CodeChef" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/abhikanade301/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gfg" alt="GeeksforGeeks" /></a>
+<a href="https://linkedin.com/in/abhishek-rangnath-kanade" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+<a href="https://instagram.com/__abhishek17_" target="blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+<a href="https://leetcode.com/u/abhishekrangnathkanade21/" target="blank"><img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" /></a>
+<a href="https://www.codechef.com/users/abhikanade301" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/codechef.svg" alt="CodeChef" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/abhikanade301/" target="blank"><img src="https://skillicons.dev/icons?i=gfg" alt="GeeksforGeeks" /></a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools  
+### 🛠️ Tech Stack  
+
+#### ⚡ MERN & Modern Web  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,mysql,postgres,git,github,tailwind,bootstrap,cpp,python,aws,firebase,linux,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,tailwind,bootstrap,git,github,postman,docker,aws,firebase,linux" />
+</p>
+
+#### ☕ Full Stack Java  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,springboot,maven,gradle,hibernate,mysql,postgres,oracle,redis,docker,aws" />
 </p>
 
 ---
